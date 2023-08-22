@@ -1,5 +1,3 @@
-# Bio
-
 <div style="display: flex">
     <div style="flex: 1; font-size: large; font-weight: bold; text-align: left">
         <p style="color: chocolate; font-size: x-large">Pyshchev Nikita</p>
