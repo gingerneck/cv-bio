@@ -9,8 +9,15 @@
         <p><img src="img_2.png" width="100" alt="accessibility text"></p>
     </div>
 </div>
+<div style="font-size: medium;">
+<p>Tech stack in my projects:</p>
 
-<div>
-<p></p>
+<div style="font-size: medium;">
+<p>
+Mostly, I use spring boot to build different services.
+</p>
+</div>
+
+
 </div>
 
