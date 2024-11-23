@@ -23,9 +23,11 @@
             </div>
         </div>
         <div style="font-size: medium;">
-            <p>I started my journey in 2017 with small course on Coursera and learnt
+            <p>I started my journey in 2016 with a small course on Coursera and learnt
                 <a href="static/file/courses/CourseraHJNNTR3SYD3C.pdf" target="blank">"Arrays, Lists, and Structured Data"</a>. 
-                At that time I worked at a museum. </p>
+                At that time I worked at a museum and help with installations and administration. After the first course 
+                I learnt a lot of different courses(<a href="static/views/certifications.md" target="blank">certificates</a>) 
+                and decided to find my first job.</p>
             <div style="font-size: medium;">
             <p> </p>
             </div>
