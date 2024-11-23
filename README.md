@@ -1,4 +1,5 @@
 <body>
+<div style="align-content: center">
     <div style="margin-left: 25px; margin-top: 25px; margin-right: 25px; max-width: 600px">
         <div style="display: flex">
             <div style="flex:1; font-size: large; text-align: left;
@@ -28,4 +29,5 @@
             </div>
         </div>
     </div>
+</div>
 </body>
