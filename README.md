@@ -4,7 +4,7 @@
         <div style="display: flex">
             <div style="flex:1; font-size: large; text-align: left;
                     margin-right: 10px; min-width: 230px">
-                <p style="color: chocolate; font-size: x-large; font-weight: bold">Pyshchev Nikita</p>
+               <!-- <p style="color: chocolate; font-size: x-large; font-weight: bold">Pyshchev Nikita</p> -->
                 <p style="font-weight: bold">Software developer</p>
                 <p style="font-size: medium">
                     <img src="static/icons/email.png" alt="photo style" width="20">
