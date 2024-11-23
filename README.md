@@ -1,7 +1,7 @@
 <body>
 <div style="align-content: center">
-    <div style="margin-left: 25px; margin-top: 25px; margin-right: 25px; max-width: 600px">
-        <div style="display: flex">
+    <div style="margin-left: 25px; margin-top: 25px; margin-right: 25px">
+        <div style="display: flex;max-width: 600px"">
             <div style="flex:1; font-size: large; text-align: left;
                     margin-right: 10px; min-width: 230px">
                <!-- <p style="color: chocolate; font-size: x-large; font-weight: bold">Pyshchev Nikita</p> -->
@@ -23,7 +23,9 @@
             </div>
         </div>
         <div style="font-size: medium;">
-            <p>text:</p>
+            <p>I started my journey in 2017 with small course on Coursera and learnt
+                <a href="static/file/courses/CourseraHJNNTR3SYD3C.pdf" target="blank">"Arrays, Lists, and Structured Data"</a>. 
+                At that time I worked at a museum. </p>
             <div style="font-size: medium;">
             <p> </p>
             </div>
