@@ -1,8 +1,8 @@
 <body>
-    <div style="margin-left: 50px; margin-top: 50px">
-        <div style="display: inline-flex">
+    <div style="margin-left: 25px; margin-top: 25px; margin-right: 25px; max-width: 600px">
+        <div style="display: flex">
             <div style="font-size: large; text-align: left;
-                    margin-right: 250px;">
+                    margin-right: 10px;">
                 <p style="color: chocolate; font-size: x-large; font-weight: bold">Pyshchev Nikita</p>
                 <p style="font-weight: bold">Software developer</p>
                 <p style="font-size: medium">pyshchev.nikita@gmail.com</p>
@@ -16,7 +16,7 @@
                 </p>
             </div>
             <div style="width: 150px">
-                <p><img src="static/images/img_2.png" alt="photo style"></p>
+                <p><img src="static/images/main.png" alt="main photo"></p>
             </div>
         </div>
         <div style="font-size: medium;">
