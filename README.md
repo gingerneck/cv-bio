@@ -26,7 +26,7 @@
             <p>I started my journey in 2016 with a small course on Coursera and learnt
                 <a href="static/file/courses/CourseraHJNNTR3SYD3C.pdf" target="blank">"Arrays, Lists, and Structured Data"</a>. 
                 At that time I worked at a museum and help with installations and administration. After the first course 
-                I learnt a lot of different courses(<a href="static/views/certifications.md" target="blank">certificates</a>) 
+                I learnt a lot of different courses(<a href="static/views/certifications.html" target="blank">certificates</a>) 
                 and decided to find my first job.</p>
             <div style="font-size: medium;">
             <p> </p>
