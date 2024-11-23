@@ -22,7 +22,7 @@
             </div>
         </div>
         <div style="font-size: medium;">
-            <p>Tech stack in my projects:</p>
+            <p>text:</p>
             <div style="font-size: medium;">
             <p> </p>
             </div>
