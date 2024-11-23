@@ -1,7 +1,7 @@
 <body>
 <div style="align-content: center">
     <div style="margin-left: 25px; margin-top: 25px; margin-right: 25px">
-        <div style="display: flex;max-width: 600px"">
+        <div style="display: flex;max-width: 600px">
             <div style="flex:1; font-size: large; text-align: left;
                     margin-right: 10px; min-width: 230px">
                <!-- <p style="color: chocolate; font-size: x-large; font-weight: bold">Pyshchev Nikita</p> -->
