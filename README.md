@@ -23,14 +23,14 @@
             </div>
         </div>
         <div style="font-size: medium;">
-            <p>I started my journey in 2016 with a small course on Coursera and learnt
+            <p>I started my journey in 2016 with a small course on Coursera, where I learned
                 <a href="static/file/courses/CourseraHJNNTR3SYD3C.pdf" target="blank">"Arrays, Lists, and Structured Data"</a>. 
-                At that time I worked at a museum and help with installations and administration. After the first course 
-                I learnt a lot of different courses(<a href="static/views/certifications.html" target="blank">certificates</a>) 
-                and decided to find my first job as a Java developer.</p>
+                At the time, I was working at a museum, assisting with installations and administration. After completing the first course 
+                 I took several other courses and earned <a href="static/views/certifications.html" target="blank">certificates</a>, 
+                which motivated me to start looking for my first job as a Java developer.</p>
             <p>
             </p>
-        </div>
+     </div>
     </div>
 </div>
 </body>
