@@ -23,14 +23,31 @@
             </div>
         </div>
         <div style="font-size: medium;">
-            <p>I started my journey in 2016 with a small course on Coursera, where I learned
+            <p>
+                I started my journey in 2016 with a small course on Coursera, where I learned
                 <a href="static/file/courses/CourseraHJNNTR3SYD3C.pdf" target="blank">"Arrays, Lists, and Structured Data"</a>. 
                 At the time, I was working at a museum, assisting with installations and administration. After completing the first course 
-                 I took several other courses and earned <a href="static/views/certifications.html" target="blank">certificates</a>, 
-                which motivated me to start looking for my first job as a Java developer.</p>
+                I took several other courses and earned 
+                <a href="static/views/certifications.html" target="blank">certificates</a>, 
+                which motivated me to start looking for my first job as a Java developer.
+            </p>
             <p>
             </p>
-     </div>
+        </div>
+        <div>
+            <p style="font-weight: bold; font-size: larger">Pet Projects</p>
+            <p>
+                All projects are not intended for production use; they are meant for informational purposes only. 
+                If you'd like to use them, feel free to go ahead—just copy, paste, and dive in!
+            </p>
+            <ul>
+                <li>
+                    <p>
+                        Task manager - todo(<a href="https://github.com/neckcode/todo">code</a> | run)
+                    </p>
+                </li>
+            </ul>
+        </div>
     </div>
 </div>
 </body>
