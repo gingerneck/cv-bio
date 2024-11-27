@@ -36,17 +36,11 @@
         </div>
         <div>
             <p style="font-weight: bold; font-size: larger">Pet Projects</p>
-            <p>
+            <p style="font-size: medium;>
                 All projects are not intended for production use; they are meant for informational purposes only. 
-                If you'd like to use them, feel free to go ahead—just copy, paste, and dive in!
+                If you'd like to use them, feel free to go ahead—just copy, paste, and 
+                <a href="static/views/petprojects.html" target="blank">dive in</a>!
             </p>
-            <ul>
-                <li>
-                    <p>
-                        Task manager - todo(<a href="https://github.com/neckcode/todo">code</a> | run)
-                    </p>
-                </li>
-            </ul>
         </div>
     </div>
 </div>
