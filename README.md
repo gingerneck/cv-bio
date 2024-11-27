@@ -36,7 +36,7 @@
         </div>
         <div>
             <p style="font-weight: bold; font-size: larger">Pet Projects</p>
-            <p style="font-size: medium;>
+            <p style="font-size: medium;">
                 All projects are not intended for production use; they are meant for informational purposes only. 
                 If you'd like to use them, feel free to go ahead—just copy, paste, and 
                 <a href="static/views/petprojects.html" target="blank">dive in</a>!
