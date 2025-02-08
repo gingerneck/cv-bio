@@ -11,7 +11,7 @@
                     pyshchev.nikita@gmail.com</p>
                 <p style="font-size: medium">
                     <img src="static/icons/home.png" alt="photo style" width="20">
-                    Argentina, El Bolsón
+                    Argentina, Patagonia
                 </p>
                 <p>
                     <img src="static/icons/bird.png" alt="photo style" width="20">
